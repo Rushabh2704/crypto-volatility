@@ -1,0 +1,15 @@
+artifact_uri: /Users/rusha/CMU Classes/Sem 2/94879 - Fundamental of Operationalizing
+  AI/Homework/crypto-volatility/mlruns/438777435402389908/2b354773efb3411c91533e79925addcc/artifacts
+end_time: 1775425014636
+entry_point_name: ''
+experiment_id: '438777435402389908'
+lifecycle_stage: active
+run_id: 2b354773efb3411c91533e79925addcc
+run_name: baseline_volatility_threshold
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775425014622
+status: 3
+tags: []
+user_id: rusha

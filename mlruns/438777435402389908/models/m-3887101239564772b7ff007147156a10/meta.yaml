@@ -1,0 +1,11 @@
+artifact_location: /Users/rusha/CMU Classes/Sem 2/94879 - Fundamental of Operationalizing
+  AI/Homework/crypto-volatility/mlruns/438777435402389908/models/m-3887101239564772b7ff007147156a10/artifacts
+creation_timestamp: 1775425015100
+experiment_id: '438777435402389908'
+last_updated_timestamp: 1775425016912
+model_id: m-3887101239564772b7ff007147156a10
+model_type: null
+name: xgboost_mlflow_model
+source_run_id: e50efbd5263b425c99f0ed17ce1263c6
+status: 2
+status_message: null

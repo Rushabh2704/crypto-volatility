@@ -1,0 +1,23 @@
+artifact_path: /Users/rusha/CMU Classes/Sem 2/94879 - Fundamental of Operationalizing
+  AI/Homework/crypto-volatility/mlruns/438777435402389908/models/m-3887101239564772b7ff007147156a10/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.11
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.10.1
+model_id: m-3887101239564772b7ff007147156a10
+model_size_bytes: 453143
+model_uuid: m-3887101239564772b7ff007147156a10
+prompts: null
+run_id: e50efbd5263b425c99f0ed17ce1263c6
+utc_time_created: '2026-04-05 21:36:55.139883'

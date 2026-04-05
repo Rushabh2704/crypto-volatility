@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24a0c674-7ff6-4fc1-aa98-9f4a0cc39dad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/crypto-volatility.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/Dockerfile.ingestor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/feature_spec.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/genai_appendix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/model_card_v1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/scoping_brief.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/add_labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/featurizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handoff/HANDOFF_NOTE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/infer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/evidently_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/model_eval.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/evidently_model_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/kafka_consume_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/replay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/ws_ingest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1775332317786</updated>
-      <workItem from="1775332318817" duration="15635000" />
+      <workItem from="1775332318817" duration="17790000" />
     </task>
     <servers />
   </component>
