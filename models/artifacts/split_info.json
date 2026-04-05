@@ -1,0 +1,11 @@
+{
+  "feature_cols": [
+    "midprice_return",
+    "spread",
+    "book_imbalance",
+    "rolling_volatility",
+    "volume_change"
+  ],
+  "label_col": "label",
+  "test_rows": 1956
+}

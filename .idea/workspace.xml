@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24a0c674-7ff6-4fc1-aa98-9f4a0cc39dad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/crypto-volatility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/Dockerfile.ingestor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/feature_spec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/genai_appendix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/model_card_v1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/scoping_brief.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/add_labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/featurizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handoff/HANDOFF_NOTE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/evidently_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/model_eval.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/evidently_model_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/kafka_consume_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/replay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/ws_ingest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3BuI23hgSgs8NBGCVJR4QqGDkcW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24a0c674-7ff6-4fc1-aa98-9f4a0cc39dad" name="Changes" comment="" />
+      <created>1775332317786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775332317786</updated>
+      <workItem from="1775332318817" duration="15635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="python:kafka-python" />
+  </component>
+</project>

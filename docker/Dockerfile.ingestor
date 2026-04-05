@@ -1,0 +1,13 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY scripts/ws_ingest.py scripts/ws_ingest.py
+COPY .env .env
+
+RUN mkdir -p data/raw
+
+CMD ["python", "scripts/ws_ingest.py", "--pair", "BTC-USD", "--minutes", "15"]
